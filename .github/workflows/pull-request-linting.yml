@@ -16,4 +16,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           ticketPrefix: "#"
           bodyRegex: '#(?<ticketNumber>\d+)'
-          bodyURLRegex: 'http(s?):\/\/(github.com)(\/watadarkstar)(\/pull-request-ticket-check-bug)(\/issues)\/(?<ticketNumber>\d+)'
+          bodyURLRegex: 'http(s?):\/\/(github.com)(\/watadarkstar)(\/pull-request-ticket-222-check-bug)(\/issues)\/(?<ticketNumber>\d+)'
